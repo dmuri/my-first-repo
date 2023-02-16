@@ -2,3 +2,5 @@
 
 Text from main branch
 I am fetched
+
+I am merged
