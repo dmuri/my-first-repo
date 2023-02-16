@@ -6,3 +6,7 @@ more text
 hello this is text
 
 i am even more text
+
+or am i text?
+
+am i art? or alive? what is text?
